@@ -11,11 +11,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  xml: ^5.0.0
-  path_parsing: ^0.5.0
+  xml: ^5.1.0
+  path_parsing: ^0.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   test: ^1.5.1
-  mockito: ^4.0.0
+  mockito: ^5.0.7
